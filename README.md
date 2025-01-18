@@ -36,3 +36,7 @@ This repository contains an Excel file, Amazon.xlsx, which includes sales data f
    - Excel: Built-in features for pivot tables, charts, and formulas.
    - Power Querry: To process, clean and visualize the data as needed.
 
+## Contact
+   - Linkedin: www.linkedin.com/in/shiva-kashyap-651316295
+   - Email: kashyapshiva0608@gmail.com     
+
