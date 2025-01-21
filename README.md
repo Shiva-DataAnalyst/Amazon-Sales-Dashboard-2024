@@ -26,6 +26,8 @@ This repository contains an Excel file, Amazon.xlsx, which includes sales data f
    -	Note: This sheet currently contains minimal or template-like data.
    
 
+![Image](https://github.com/user-attachments/assets/c9e358a0-f272-4f43-9252-785943a3dde4)
+
 ## Potential Use Cases
 
    - Sales Analysis: Analyze sales performance by product, region, and salesperson.
