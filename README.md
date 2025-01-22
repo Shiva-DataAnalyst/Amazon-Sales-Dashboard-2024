@@ -40,5 +40,9 @@ This repository contains an Excel file, Amazon.xlsx, which includes sales data f
 
 ## Contact
    - Linkedin: www.linkedin.com/in/shiva-kashyap-651316295
-   - Email: kashyapshiva0608@gmail.com     
+   - Email: kashyapshiva0608@gmail.com
+
+## Author
+   - Shiva
+   - Data Analyst
 
