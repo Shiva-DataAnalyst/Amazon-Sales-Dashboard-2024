@@ -43,6 +43,6 @@ This repository contains an Excel file, Amazon.xlsx, which includes sales data f
    - Email: kashyapshiva0608@gmail.com
 
 ## Author
-   - Shiva
-   - Data Analyst
+Shiva
+Data Analyst
 
